@@ -1,3 +1,7 @@
+# What is this project?
+
+This is a project that is just for code inspection purpose. I didn't change or implement anything regarding functionalities. I've updated the dependencies though, since the dependencies coming in the requirements.txt fails to install
+
 # Super Mario Implementation in Python
 
 This is inspired by Meth-Meth-Method's [super mario game](https://github.com/meth-meth-method/super-mario/)
